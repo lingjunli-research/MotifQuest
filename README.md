@@ -1,5 +1,5 @@
 <div align="center">
-<img src="(https://github.com/lingjunli-research/MotifQuest/blob/main/TOC.png">
+<img src="https://github.com/lingjunli-research/MotifQuest/blob/main/TOC.png">
 </div>
 
 # MotifQuest
